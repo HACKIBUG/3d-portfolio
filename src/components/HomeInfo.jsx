@@ -27,7 +27,7 @@ const renderContent={
     ),
     3:(
         <InfoBox
-         text="Completed some practice assignments using vedios from YouTube, online courses and Internships"
+         text="Completed some practice assignments using videos from YouTube, online courses and Internships"
          link="/projects"
          btnText="Visit My Portfolio">
         </InfoBox>
