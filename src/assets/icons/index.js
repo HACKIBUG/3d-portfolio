@@ -31,6 +31,7 @@ import calculator from './calculator.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import accenture from './accenture.svg'
+import Appsheet from './Appsheet.jpg'
 
 export {
     css,
@@ -65,5 +66,6 @@ export {
     linkedin,
     arrow,
     soundon,
-    soundoff
+    soundoff,
+    Appsheet,
 }

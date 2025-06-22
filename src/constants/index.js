@@ -8,7 +8,7 @@ import {
     calculator,
     portfolio,
     portfoliosimple,
-    framer,
+    Appsheet,
     google,
     accenture,
     spotify,
@@ -254,17 +254,17 @@ export const projects = [
         link: '',
     },
     {
-        iconUrl: framer,
+        iconUrl: Appsheet,
         theme: 'btn-back-black',
-        name: 'Website using Framer',
+        name: 'Website using Appsheet',
         description: 'This website focuses on animations and gradients and also achieve complete responsiveness.',
-        link: '',
+        link: 'https://www.appsheet.com/start/47ccb9d9-37c4-480c-93af-25777aa83ca8',
     },
     {
         iconUrl: portfolio,
         theme: 'btn-back-yellow',
         name: '3d PortFolio Website',
         description:'Portfolio website built using react js and the 3d models are extracted from sketchfab and styling done using tailwind css.',
-        link: '',
+        link: 'https://3d-portfolio-surekha-s.vercel.app/',
     }
 ];
