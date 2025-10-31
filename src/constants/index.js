@@ -5,11 +5,13 @@ import {
     html,
     javascript,
     weather,
-    calculator,
+    Recipe,
     portfolio,
     portfoliosimple,
     Appsheet,
     google,
+    ocr,
+    commerce,
     accenture,
     spotify,
     linkedin,
@@ -220,23 +222,23 @@ export const socialLinks = [
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/surekha-s-4071b0286',
+        link: 'https://www.linkedin.com/in/surekha-sakthivel-4071b0286',
     }
 ];
 
 export const projects = [
     {
-        iconUrl: weather,
+        iconUrl: commerce,
         theme: 'btn-back-red',
-        name: 'Weather App',
-        description: 'A Weather App is a software application designed to provide users with real-time weather information and forecasts using weather API.',
-        link: '',
+        name: 'E-Commerce-Website',
+        description: 'A responsive e-commerce frontend built with React.js, featuring product listings, category filters and a clean user-friendly design. The app focuses on delivering a smooth browsing experience using modern UI components.',
+        link: 'https://shopas.vercel.app/',
     },
     {
-        iconUrl: spotify,
+        iconUrl: ocr,
         theme: 'btn-back-green',
-        name: 'Spotify Clone',
-        description: 'A frontend clone of Spotify using React js with its frameworks and libraries ,spotify web api and Hosted Using FireBase .',
+        name: 'Tamil Ocr',
+        description: 'Tamil OCR is a web application that extracts Tamil text from images using Tesseract.js.Built with React.js for the frontend and Django for the backend.',
         link: '',
     },
     {
@@ -247,17 +249,17 @@ export const projects = [
         link: '',
     },
     {
-        iconUrl: calculator,
+        iconUrl: Recipe,
         theme: 'btn-back-pink',
-        name: 'Normal Calculator',
-        description: 'Calculator with basic operations like addition, subtraction, multiplication,division built using javascript.',
-        link: '',
+        name: 'Recipe App',
+        description: 'A Recipe App that allows users to search for recipes, view ingredients, and follow cooking instructions.',
+        link: 'https://cookingguide.vercel.app/',
     },
     {
         iconUrl: Appsheet,
         theme: 'btn-back-black',
         name: 'Website using Appsheet',
-        description: 'This website focuses on animations and gradients and also achieve complete responsiveness.',
+        description: 'It enables seamless candidate tracking, interview scheduling, and team collaboration—all from a no-code, mobile-friendly platform.',
         link: 'https://www.appsheet.com/start/47ccb9d9-37c4-480c-93af-25777aa83ca8',
     },
     {

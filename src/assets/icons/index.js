@@ -26,8 +26,10 @@ import google from './google.svg'
 import portfoliosimple from './portfoliosimple.svg'
 import portfolio from './portfolio.svg'
 import weather from './weather.svg'
+import commerce from './commerce.svg'
+import ocr from './ocr.svg'
 import framer from './framer.svg'
-import calculator from './calculator.svg'
+import Recipe from './Recipe.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import accenture from './accenture.svg'
@@ -41,7 +43,8 @@ export {
     google,
     accenture,
     framer,
-    calculator,
+    ocr,
+    commerce,
     git,
     spotify,
     github,
@@ -68,4 +71,5 @@ export {
     soundon,
     soundoff,
     Appsheet,
+    Recipe,
 }
