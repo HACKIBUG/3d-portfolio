@@ -260,7 +260,7 @@ export const projects = [
         theme: 'btn-back-black',
         name: 'Website using Appsheet',
         description: 'It enables seamless candidate tracking, interview scheduling, and team collaboration—all from a no-code, mobile-friendly platform.',
-        link: 'https://www.appsheet.com/start/47ccb9d9-37c4-480c-93af-25777aa83ca8',
+        link: '',
     },
     {
         iconUrl: portfolio,
